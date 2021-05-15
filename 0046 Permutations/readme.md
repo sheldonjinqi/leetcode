@@ -5,3 +5,4 @@
     *   repeat
 * Uses swap function to swap values of two variable
     * `swap( A, B)`
+* Can also use `next_permutation` from STL 
