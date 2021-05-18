@@ -3,7 +3,7 @@ Solution and notes for leetcode problems.
 | Problem#  | Status | Notes |
 | ------------- | :-------------: |:-------------: |
 | 1. Two Sum  | :heavy_check_mark:  | :heavy_check_mark: |
-| 2. Add Two Numbers  | :heavy_check_mark:  | :warning: |
+| 2. Add Two Numbers  | :heavy_check_mark:  | :heavy_check_mark: |
 | 3. Longest Substring Without  Repeating Characters | :heavy_check_mark: | :x:|
 | 7. Reverse Integer | :heavy_check_mark: | :x: |
 | 17. Letter Combinations of a Phone Number | :heavy_check_mark: | :x: |
