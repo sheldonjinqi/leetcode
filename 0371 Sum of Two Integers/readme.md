@@ -1,4 +1,5 @@
 # Notes
+**add complexity analysis**
 * Bitwise operators can be used to perform addition of integers
 * **XOR** is 1 only when two bit are different calculates the sum with out carry(when both number has 1 at a specific digit)
 * **&** is 1 when both bits are 1, and therefore used to calculate the carry. 
