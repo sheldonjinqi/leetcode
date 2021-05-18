@@ -18,6 +18,7 @@ Solution and notes for leetcode problems.
 | 121. Best Time to Buy and Sell Stock | :heavy_check_mark: | :x: |
 | 146. LRU Cache | :heavy_check_mark: | :x: |
 | 148. Sorted List| :heavy_check_mark: | :x: |
+| 230. Kth Smallest Element in BST| ✔️| ✔️|
 | 240. Search a 2D Matrix II | :heavy_check_mark: | :x: | 
 | 371. Sum of Two Integers | :heavy_check_mark: | :heavy_check_mark: |
 | 438. Find All Anagrams in a String| :heavy_check_mark: | :x: | 
