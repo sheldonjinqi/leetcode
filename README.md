@@ -4,9 +4,9 @@ Solution and notes for leetcode problems.
 | ------------- | :-------------: |:-------------: |
 | 1. Two Sum  | :heavy_check_mark:  | :heavy_check_mark: |
 | 2. Add Two Numbers  | :heavy_check_mark:  | :heavy_check_mark: |
-| 3. Longest Substring Without  Repeating Characters | :heavy_check_mark: | :x:|
-| 7. Reverse Integer | :heavy_check_mark: | :x: |
-| 17. Letter Combinations of a Phone Number | :heavy_check_mark: | :x: |
+| 3. Longest Substring Without  Repeating Characters | :heavy_check_mark: | :heavy_check_mark:|
+| 7. Reverse Integer | :heavy_check_mark: | :heavy_check_mark: |
+| 17. Letter Combinations of a Phone Number | :heavy_check_mark: | :heavy_check_mark: |
 | 21. Merge Two Sorted Lists | :heavy_check_mark: | :x:|
 | 45. Jump Game II | :heavy_check_mark: | :x: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
@@ -19,7 +19,7 @@ Solution and notes for leetcode problems.
 | 146. LRU Cache | :heavy_check_mark: | :x: |
 | 148. Sorted List| :heavy_check_mark: | :x: |
 | 240. Search a 2D Matrix II | :heavy_check_mark: | :x: | 
-| 371. Sum of Two Integers | :heavy_check_mark: | :warning: |
+| 371. Sum of Two Integers | :heavy_check_mark: | :heavy_check_mark: |
 | 438. Find All Anagrams in a String| :heavy_check_mark: | :x: | 
 | 581. Shortest Unsorted Continuous Subarray| :heavy_check_mark: | :x:|
 | 1275. Find Winner on a Tic Tac Toe Game | :heavy_check_mark: | :x: | 
