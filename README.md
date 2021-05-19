@@ -8,6 +8,7 @@ Solution and notes for leetcode problems.
 | 7. Reverse Integer | :heavy_check_mark: | :heavy_check_mark: |
 | 17. Letter Combinations of a Phone Number | :heavy_check_mark: | :heavy_check_mark: |
 | 21. Merge Two Sorted Lists | :heavy_check_mark: | :x:|
+| 31. Next Permutaion| ✔️| ✔️|
 | 45. Jump Game II | :heavy_check_mark: | :x: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
 | 53. Maximum Subarray | :heavy_check_mark: | :x: |
@@ -27,4 +28,4 @@ Solution and notes for leetcode problems.
 | 581. Shortest Unsorted Continuous Subarray| :heavy_check_mark: | :x:|
 | 1275. Find Winner on a Tic Tac Toe Game | :heavy_check_mark: | :x: | 
 
-ss
+
