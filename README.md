@@ -12,7 +12,7 @@ Solution and notes for leetcode problems.
 | 45. Jump Game II | :heavy_check_mark: | ✔️: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
 | 53. Maximum Subarray | :heavy_check_mark: | :x: |
-| 56. Merge Intervals | ✔️ | :x:|
+| 56. Merge Intervals | ✔️ | ✔️:|
 | 75. Sort Colors | :heavy_check_mark:| :x: |
 | 76. Minimum Window Substring | :heavy_check_mark: | :x:|
 | 96. Unique Binary Seach Trees | :heavy_check_mark: | :x: |
