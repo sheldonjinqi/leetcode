@@ -14,7 +14,7 @@ Solution and notes for leetcode problems.
 | 41. First Missing Positive| ✔️ |:x:|
 | 45. Jump Game II | :heavy_check_mark: | ✔️: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
-| 48. Rotate Image | ✔️ | :x| |
+| 48. Rotate Image | ✔️ | :x: |
 | 53. Maximum Subarray | :heavy_check_mark: | :x: |
 | 56. Merge Intervals | ✔️ | ✔️:|
 | 73. Set Matrix Zeroes| ✔️ | :x:|
