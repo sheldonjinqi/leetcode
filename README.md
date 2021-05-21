@@ -37,6 +37,7 @@ Solution and notes for leetcode problems.
 | 438. Find All Anagrams in a String| :heavy_check_mark: | :x: | 
 | 543. Diameter of Binary Tree | ✔️ | :x: |
 | 581. Shortest Unsorted Continuous Subarray| :heavy_check_mark: | :x:|
+| 617. Merge Two Binary Trees| ✔️ | ✔️|
 | 763. Partition Labels | ✔️ | :x: | 
 | 1275. Find Winner on a Tic Tac Toe Game | :heavy_check_mark: | :x: | 
 
