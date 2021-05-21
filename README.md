@@ -7,11 +7,14 @@ Solution and notes for leetcode problems.
 | 3. Longest Substring Without  Repeating Characters | :heavy_check_mark: | :heavy_check_mark:|
 | 7. Reverse Integer | :heavy_check_mark: | :heavy_check_mark: |
 | 17. Letter Combinations of a Phone Number | :heavy_check_mark: | :heavy_check_mark: |
+| 19. Remove Nth Node From End of List | ✔️ | :x:|
 | 21. Merge Two Sorted Lists | :heavy_check_mark: | :x:|
 | 31. Next Permutaion| ✔️| ✔️|
 | 34. Find First and Last Position of Element in Sorted Array | ✔️| ⚠️|
+| 41. First Missing Positive| ✔️ |:x:|
 | 45. Jump Game II | :heavy_check_mark: | ✔️: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
+| 48. Rotate Image | ✔️ | :x| |
 | 53. Maximum Subarray | :heavy_check_mark: | :x: |
 | 56. Merge Intervals | ✔️ | ✔️:|
 | 73. Set Matrix Zeroes| ✔️ | :x:|
@@ -26,10 +29,14 @@ Solution and notes for leetcode problems.
 | 169 Majority Element | ✔️| ✔️|
 | 200 Number of Islands| ✔️ | ✔️ | 
 | 230. Kth Smallest Element in BST| ✔️| ✔️|
+| 237. Delete Node in Linked List | ✔️ | :x: |
 | 240. Search a 2D Matrix II | :heavy_check_mark: | :x: | 
+| 289. Game of Life | ✔️ | :x: |
 | 371. Sum of Two Integers | :heavy_check_mark: | :heavy_check_mark: |
 | 438. Find All Anagrams in a String| :heavy_check_mark: | :x: | 
+| 543. Diameter of Binary Tree | ✔️ | :x: |
 | 581. Shortest Unsorted Continuous Subarray| :heavy_check_mark: | :x:|
+| 763. Partition Labels | ✔️ | :x: | 
 | 1275. Find Winner on a Tic Tac Toe Game | :heavy_check_mark: | :x: | 
 
 
