@@ -9,7 +9,7 @@ Solution and notes for leetcode problems.
 | 17. Letter Combinations of a Phone Number | :heavy_check_mark: | :heavy_check_mark: |
 | 21. Merge Two Sorted Lists | :heavy_check_mark: | :x:|
 | 31. Next Permutaion| ✔️| ✔️|
-| 34. he | ✔️| ⚠️|
+| 34. Find First and Last Position of Element in Sorted Array | ✔️| ⚠️|
 | 45. Jump Game II | :heavy_check_mark: | ✔️: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
 | 53. Maximum Subarray | :heavy_check_mark: | :x: |
