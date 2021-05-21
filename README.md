@@ -11,7 +11,7 @@ Solution and notes for leetcode problems.
 | 21. Merge Two Sorted Lists | :heavy_check_mark: | :x:|
 | 31. Next Permutaion| ✔️| ✔️|
 | 34. Find First and Last Position of Element in Sorted Array | ✔️| ⚠️|
-| 41. First Missing Positive| ✔️ |:x:|
+| 41. First Missing Positive| ✔️ |✔️ |
 | 45. Jump Game II | :heavy_check_mark: | ✔️: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
 | 48. Rotate Image | ✔️ | :x: |
