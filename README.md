@@ -6,6 +6,7 @@ Solution and notes for leetcode problems.
 | 2. Add Two Numbers  | :heavy_check_mark:  | :heavy_check_mark: |
 | 3. Longest Substring Without  Repeating Characters | :heavy_check_mark: | :heavy_check_mark:|
 | 7. Reverse Integer | :heavy_check_mark: | :heavy_check_mark: |
+| 15. 3Sum | :x: |:x:|
 | 17. Letter Combinations of a Phone Number | :heavy_check_mark: | :heavy_check_mark: |
 | 19. Remove Nth Node From End of List | ✔️ | :x:|
 | 21. Merge Two Sorted Lists | :heavy_check_mark: | :x:|
