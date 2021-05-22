@@ -24,7 +24,7 @@ Solution and notes for leetcode problems.
 | 96. Unique Binary Seach Trees | :heavy_check_mark: | :x: |
 | 105. COnstruct Binary Tree from Preorder and Inorder Traversal | :heavy_check_mark: | :x:|
 | 121. Best Time to Buy and Sell Stock | :heavy_check_mark: | :x: |
-| 139. Word Break| ⚠️ | :x:|
+| 139. Word Break| ✔️ | ✔️|
 | 146. LRU Cache | :heavy_check_mark: | ✔️: |
 | 148. Sorted List| :heavy_check_mark: | :x: |
 | 169 Majority Element | ✔️| ✔️|
