@@ -33,7 +33,7 @@ Solution and notes for leetcode problems.
 | 230. Kth Smallest Element in BST| ✔️| ✔️|
 | 237. Delete Node in Linked List | ✔️ | :x: |
 | 240. Search a 2D Matrix II | :heavy_check_mark: | :x: | 
-| 279. Perfect Square | ⚠️ |:x:|
+| 279. Perfect Square | ✔️ |:warning:|
 | 289. Game of Life | ✔️ | :x: |
 | 371. Sum of Two Integers | :heavy_check_mark: | :heavy_check_mark: |
 | 438. Find All Anagrams in a String| :heavy_check_mark: | :x: | 
