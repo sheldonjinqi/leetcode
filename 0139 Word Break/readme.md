@@ -1,5 +1,6 @@
 # Notes 
 * substing() function has _O(n)_ time complexity 
+* hashing of string take _O(n)_ time 
 * method 1 recursive with memozation :
     * for each substring that is part of the dictionary, check if the remaining substring is also part of the dictionary
     * store values in a map, to avoid redundant calculation. 
