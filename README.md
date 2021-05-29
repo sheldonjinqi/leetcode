@@ -39,6 +39,7 @@ Solution and notes for leetcode problems.
 | 371. Sum of Two Integers | :heavy_check_mark: | :heavy_check_mark: |
 | 438. Find All Anagrams in a String| :heavy_check_mark: | :x: | 
 | 543. Diameter of Binary Tree | ✔️ | :x: |
+| 560. Subarray Sum Equals K| ✔️ | ✔️| 
 | 581. Shortest Unsorted Continuous Subarray| :heavy_check_mark: | :x:|
 | 617. Merge Two Binary Trees| ✔️ | ✔️|
 | 763. Partition Labels | ✔️ | :x: | 
