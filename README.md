@@ -17,6 +17,7 @@ Solution and notes for leetcode problems.
 | 46. Permutations | :heavy_check_mark: | :x: |
 | 48. Rotate Image | ✔️ | :x: |
 | 53. Maximum Subarray | :heavy_check_mark: | :x: |
+| 55. Jump Game| ✔️ | ✔️ | 
 | 56. Merge Intervals | ✔️ | ✔️:|
 | 73. Set Matrix Zeroes| ✔️ | :x:|
 | 75. Sort Colors | :heavy_check_mark:| :x: |
