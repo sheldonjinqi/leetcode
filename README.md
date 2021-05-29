@@ -16,6 +16,7 @@ Solution and notes for leetcode problems.
 | 45. Jump Game II | :heavy_check_mark: | ✔️: | 
 | 46. Permutations | :heavy_check_mark: | :x: |
 | 48. Rotate Image | ✔️ | :x: |
+| 49. Group Anagrams | ✔️ | ✔️ |
 | 53. Maximum Subarray | :heavy_check_mark: | :x: |
 | 55. Jump Game| ✔️ | ✔️ | 
 | 56. Merge Intervals | ✔️ | ✔️:|
