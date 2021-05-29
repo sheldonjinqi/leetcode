@@ -31,6 +31,7 @@ Solution and notes for leetcode problems.
 | 169 Majority Element | ✔️| ✔️|
 | 200 Number of Islands| ✔️ | ✔️ | 
 | 230. Kth Smallest Element in BST| ✔️| ✔️|
+| 234. Palindrome Linked List | ✔️ | ✔️ |
 | 237. Delete Node in Linked List | ✔️ | :x: |
 | 240. Search a 2D Matrix II | :heavy_check_mark: | :x: | 
 | 279. Perfect Square | ✔️ |:warning:|
