@@ -31,6 +31,7 @@ Solution and notes for leetcode problems.
 | 139. Word Break| ✔️ | ✔️|
 | 146. LRU Cache | :heavy_check_mark: | ✔️: |
 | 148. Sorted List| :heavy_check_mark: | :x: |
+|152. Maximum Product Subarray | ✔️ | ✔️ |
 | 160. Intersection of Two Linked Lists | ✔️ | ✔️ |
 | 169 Majority Element | ✔️| ✔️|
 | 200 Number of Islands| ✔️ | ✔️ | 
