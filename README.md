@@ -30,6 +30,7 @@ Solution and notes for leetcode problems.
 | 139. Word Break| ✔️ | ✔️|
 | 146. LRU Cache | :heavy_check_mark: | ✔️: |
 | 148. Sorted List| :heavy_check_mark: | :x: |
+| 160. Intersection of Two Linked Lists | ✔️ | ✔️ |
 | 169 Majority Element | ✔️| ✔️|
 | 200 Number of Islands| ✔️ | ✔️ | 
 | 230. Kth Smallest Element in BST| ✔️| ✔️|
