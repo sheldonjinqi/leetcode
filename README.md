@@ -34,6 +34,7 @@ Solution and notes for leetcode problems.
 |152. Maximum Product Subarray | ✔️ | ✔️ |
 | 160. Intersection of Two Linked Lists | ✔️ | ✔️ |
 | 169 Majority Element | ✔️| ✔️|
+|191. Number of 1 Bits| ✔️ | :x: | 
 | 200 Number of Islands| ✔️ | ✔️ | 
 | 230. Kth Smallest Element in BST| ✔️| ✔️|
 | 234. Palindrome Linked List | ✔️ | ✔️ |
